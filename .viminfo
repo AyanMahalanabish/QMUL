@@ -33,16 +33,19 @@
 	a
 
 # File marks:
-'0  5  48  ~/.gitignore
-'1  8  8  ~/week4/app.py
-'2  6  7  ~/week4/app.py
-'3  4  16  ~/week4/Dockerfile
-'4  1  0  ~/week4/requirements.txt
-'5  2  0  ~/week4/Dockerfile
-'6  4  34  ~/week4/Dockerfile
-'7  5  69  ~/week4/app.py
+'0  2  59  ~/README.md
+'1  5  48  ~/.gitignore
+'2  8  8  ~/week4/app.py
+'3  6  7  ~/week4/app.py
+'4  4  16  ~/week4/Dockerfile
+'5  1  0  ~/week4/requirements.txt
+'6  2  0  ~/week4/Dockerfile
+'7  4  34  ~/week4/Dockerfile
+'8  5  69  ~/week4/app.py
 
 # Jumplist (newest first):
+-'  2  59  ~/README.md
+-'  1  0  ~/README.md
 -'  5  48  ~/.gitignore
 -'  1  0  ~/.gitignore
 -'  8  8  ~/week4/app.py
@@ -140,9 +143,14 @@
 -'  1  0  ~/week4/requirements.txt
 -'  4  16  ~/week4/Dockerfile
 -'  1  0  ~/week4/Dockerfile
--'  1  0  ~/week4/requirements.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	"	2	59
+	^	2	60
+	.	2	0
+	+	2	0
 
 > ~/.gitignore
 	"	5	48
